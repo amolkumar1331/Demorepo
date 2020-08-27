@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hi D drive
-=======
-hi C drive
->>>>>>> 3dc0ae1e91112ed3021d4d96e046b43448177974
+
