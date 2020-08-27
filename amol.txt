@@ -1,7 +1,0 @@
-
-hi C drive
-<<<<<<< HEAD
-hi D drive
-=======
->>>>>>> 288f95ea0a7024f4f2e7fc63a98c0ec668d712b5
-
